@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.center{
+  padding: 0 250px;
+}
+
+header nav{
+  color: blue;
+  background-color: pink;
+ text-align: center;
+ padding:  20px;
+}
+header nav a {
+  text-decoration: none;
+  margin-right: 10px;
+}
+footer{
+  text-align: center;
+  background-color: salmon;
+  padding: 20px;
+}
+
+
