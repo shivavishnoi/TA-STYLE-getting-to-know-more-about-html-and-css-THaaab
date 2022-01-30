@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.home{
+  background-color: brown;
+}
+.pricing{
+  background-color: aqua;
+}
+.contact{
+  background-color: blue;
+}
